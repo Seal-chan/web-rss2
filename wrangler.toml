@@ -1,0 +1,10 @@
+name = "web-rss2"
+pages_build_output_dir = "./src"
+compatibility_date = "2026-06-07"
+[[kv_namespaces]]
+binding = "RSS_KV"
+id = "dfd70d568bc9421880d90be4ae99bf73"
+
+
+# wrangler pages dev  --ip 0.0.0.0 --port 8787
+# wrangler pages deploy
